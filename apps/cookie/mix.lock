@@ -1,0 +1,5 @@
+[ "cowboy": {:git, "git://github.com/extend/cowboy.git", "4769412daaff2be53cb7d7391d0a196acb6346c3", []},
+  "cowlib": {:git, "git://github.com/extend/cowlib.git", "2f35af5b0a67f591dde5ae4305a9587988a37c0c", [{:ref, "0.1.0"}]},
+  "erlydtl": {:git, "git://github.com/evanmiller/erlydtl.git", "350733733038574d353fecefd8a2b28683c4fe87", []},
+  "exlydtl": {:git, "https://github.com/joshrotenberg/exlydtl", "d104f8d823e37352fd14ad8d6a34aab65c7da115", []},
+  "ranch": {:git, "git://github.com/extend/ranch.git", "41705752ffc7e3ecb96eef8374015ead4ca7f699", [{:ref, "0.8.5"}]} ]

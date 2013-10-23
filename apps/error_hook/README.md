@@ -1,0 +1,3 @@
+# ErrorHook
+
+** TODO: Add description **

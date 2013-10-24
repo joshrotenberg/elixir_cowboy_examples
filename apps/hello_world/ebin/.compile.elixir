@@ -1,3 +1,0 @@
-ebin/Elixir.HelloWorld.Supervisor.beam	Elixir.HelloWorld.Supervisor	lib/hello_world/supervisor.ex
-ebin/Elixir.HelloWorld.TopPageHandler.beam	Elixir.HelloWorld.TopPageHandler	lib/hello_world/top_page_handler.ex
-ebin/Elixir.HelloWorld.beam	Elixir.HelloWorld	lib/hello_world.ex	Elixir.HelloWorld.Supervisor	Elixir.HelloWorld.TopPageHandler

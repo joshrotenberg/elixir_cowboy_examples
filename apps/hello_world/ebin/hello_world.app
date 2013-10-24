@@ -1,9 +1,0 @@
-{application,hello_world,
-             [{registered,[]},
-              {description,"hello_world"},
-              {vsn,"0.0.1"},
-              {modules,['Elixir.HelloWorld.Supervisor',
-                        'Elixir.HelloWorld.TopPageHandler',
-                        'Elixir.HelloWorld']},
-              {applications,[kernel,stdlib,elixir,cowboy]},
-              {mod,{'Elixir.HelloWorld',[]}}]}.

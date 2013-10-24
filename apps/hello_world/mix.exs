@@ -2,7 +2,7 @@ defmodule HelloWorld.Mixfile do
   use Mix.Project
 
   def project do
-    [ app: :elixir_hello_world,
+    [ app: :hello_world,
       version: "0.0.1",
       deps: deps ]
   end
